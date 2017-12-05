@@ -1,0 +1,16 @@
+{
+    "configInfo": {
+        "version": "4",
+        "author": "Gad575",
+        "description": "Конфиг для Gad575 ChatBot"
+    },
+    "botInfo": {
+        "name": "Gad575 ChatBot",
+        "version": "0.9.5",
+        "developer": "Gad575",
+        "update": "- добавлена команда для показа текущего обновления без команды помощи."
+    },
+    "ownerID": "343027335488077825",
+    "token": "MzQ5NDQyOTQzMzA5ODQwMzg3.DQG6QA.1nB1gqyluOedlBBvUIG2as9-XRM",
+    "prefix": "GAD"
+}
